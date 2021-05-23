@@ -3,17 +3,10 @@ I'm from chennai, TN, India
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a student of class 09
-- 🌱 I’m currently learning python, dart and flutter
+- 🔭 I’m currently a student of class 10
+- 🌱 I’m currently learning python, dart and kotlin
 - ⚡ Fun fact: I love to code
-<!-- 
-- 📫 How to reach me: ...
-- I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
--->
-<br />
+<br/>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio" height="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"/>
